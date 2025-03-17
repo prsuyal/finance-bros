@@ -1,0 +1,12 @@
+tradewar_id,action,response,count
+1,titfortat,titfortat,1
+2,nothing,superretaliation,1
+3,titfortat,superretaliation,1
+4,nothing,subsidization,1
+5,titfortat,subretaliation,1
+6,superretaliation,superretaliation,1
+7,titfortat,subsidization,1
+9,subsidization,subsidization,1
+10,subsidization,titfortat,1
+11,subsidization,nothing,1
+12,nothing,subsidization,1

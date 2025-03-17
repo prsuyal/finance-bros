@@ -1,0 +1,21 @@
+action,response,prob
+"nothing", "nothing", 0.7
+"nothing", "superretaliation", 0.15
+"nothing", "subsidization", 0.15
+"titfortat", "titfortat", 0.65
+"titfortat", "superretaliation", 0.1
+"titfortat", "subretaliation", 0.1
+"titfortat", "nothing", 0.1
+"titfortat", "subsidization", 0.05
+"superretaliation", "titfortat", 0.65
+"superretaliation", "superretaliation", 0.15
+"superretaliation", "subretaliation", 0.10
+"superretaliation", "nothing", 0.05
+"superretaliation", "subsidization", 0.05
+"subretaliation", "titfortat", 0.40
+"subretaliation", "subretaliation", 0.40
+"subretaliation", "nothing", 0.15
+"subretaliation", "subsidization", 0.05
+"subsidization", "subsidization", 0.65
+"subsidization", "titfortat", 0.20
+"subsidization", "nothing", 0.15
